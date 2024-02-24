@@ -8,5 +8,4 @@ fun main()
     println("Multiplication of $num1 and $num2 : "+(num1*num2))
     println("Division of $num1 and $num2 : "+(num1/num2))
     println("Modulus of $num1 and $num2 : "+(num1%num2))
-
 }
