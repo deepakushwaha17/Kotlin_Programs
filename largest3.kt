@@ -1,4 +1,4 @@
-//Program to check largest among three number
+//Program to check largest among three number.
 fun main()
 {
     var a = 24
