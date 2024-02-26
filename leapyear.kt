@@ -10,5 +10,4 @@ fun main()
         println("$year is leap year")
     else
         println("$year is not leap year")
-
 }
