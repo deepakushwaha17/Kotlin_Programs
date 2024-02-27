@@ -7,5 +7,4 @@ fun main()
         println("Num1 $num1 is smaller than Num2 $num2")
     else
         println("Num2 $num2 is smaller than Num1 $num1")
-
 }
