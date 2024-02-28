@@ -1,4 +1,4 @@
-//Program to use the different string functions
+//Program to use the different string functions.
 fun main()
 {
     var txt1 = "Hello World"
