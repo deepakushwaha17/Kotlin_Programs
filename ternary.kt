@@ -1,6 +1,7 @@
 //Program to find greatest among two number using ifternary.
 /* Kotlin does not support ternary operator ? : ;
 to use ternary in kotlin we have to write in this way "if(condition)<true stmnt> else <false stmnt>" */
+
 fun main()
 {
     var n1 = 35
