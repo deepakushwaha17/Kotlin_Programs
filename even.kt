@@ -6,5 +6,4 @@ fun main()
         println("Number $num is an even number")
     else
         println("Number $num is an odd number")
-
 }
