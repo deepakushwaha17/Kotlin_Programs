@@ -1,4 +1,3 @@
-
 //Program to take float input and print it.
 fun main()
 {
