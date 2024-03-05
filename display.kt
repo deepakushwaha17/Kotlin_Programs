@@ -5,4 +5,5 @@ fun main()
     var num2 = 50.034F
     println("Float number num1 value is " +num1)
     println("Float number num2 value is " +num2)
+
 }
