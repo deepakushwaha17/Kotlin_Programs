@@ -15,5 +15,4 @@ fun main()
     println(txt1+" "+txt2)
     println(txt1.plus(txt2))
     println("$txt1 $txt2")
-
 }
