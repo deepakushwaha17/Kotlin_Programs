@@ -1,4 +1,5 @@
 //Program to find greatest of two number.
+
 fun main()
 {
     var num1 = 24
