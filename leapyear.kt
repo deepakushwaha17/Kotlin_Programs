@@ -1,5 +1,6 @@
 import java.util.Scanner
 //Program to check entered year is leap year or not.
+
 fun main()
 {
     var sc = Scanner(System.`in`)
